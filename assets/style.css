@@ -96,6 +96,7 @@ body {
   background-color: #2589bd;
   margin-bottom: 32px;
   color: #ffffff;
+  text-align: center;
 }
 
 .benefits h3 {
@@ -107,6 +108,7 @@ body {
   margin: 10px auto;
   max-width: 150px;
 }
+
 /* footer */
 .footer {
   padding: 30px;
